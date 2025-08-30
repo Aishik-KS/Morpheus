@@ -1,0 +1,14 @@
+.TextBar {
+  display: flex;
+  background-color: white;
+  padding: 10px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 10px;
+  margin-top: auto;
+}
+
+.TextBar image {
+  width: 25px;
+  height: 25px;
+}
